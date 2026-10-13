@@ -1,54 +1,34 @@
 ## Hi, I'm Will 👋
 
 ### Technical Product Manager | Endpoint Management | Enterprise IT
-
-I am a Technical Product Manager focused on modern endpoint management, enterprise automation, security, and platform integrations.
-I enjoy bridging the gap between customers, technology, and business strategy while turning complex technical challenges into products that create measurable value.
+Technical Product Manager focused on endpoint management, enterprise security, automation, and modern workplace technologies.
 
 ---
 
-## 🚀 Areas of Focus
-
+## 🎯 Areas of Focus
 - Endpoint Management
-- Enterprise Mobility Management (EMM)
-- Microsoft Intune & Co-Management
-- API Design & Integrations
-- MCP (Model Context Protocol) & AI-enabled Enterprise Workflows
+- Intune & Co-Management
+- Security & Compliance
+- APIs & Integrations
+- MCP & Enterprise AI
 
----
-
-## 🛠 Technology & Platforms
-- Product Management
-- Endpoint Management
-- Microsoft Intune
-- Microsoft Entra ID
-- Enterprise Mobility Management (EMM)
-- REST APIs
-- PowerShell
-- GitHub & GitHub Actions
-- MCP (Model Context Protocol)
-- Enterprise Automation
-  
----
-
-## 🌱 Currently Exploring
-
-- MCP Server Architectures &  Agentic AI Workflows
+### 🚀 Exploring
+- MCP Server Architectures
+- Agentic Workflows
 - GitHub Automation
-- Product Discovery Techniques
-- Security-focused Endpoint Automation
-  
----
+- Product Discovery
 
-## 🎯 What I Enjoy Building
-- API-driven Solutions
-- Technical Concepts & Architectures
-- AI-assisted Enterprise Solutions
+### 🛠 Building
+- Product Strategies
 - Enterprise Integrations
+- Technical Architectures
+- API-driven Solutions
+
 ---
 
 ## 🤝 Let's Connect
-I'm always interested in discussions!
+I'm always interested in exchanging ideas around endpoint management, enterprise security and product management.
+
 ---
 
 > Turning complex enterprise technology into products people actually love to use.
