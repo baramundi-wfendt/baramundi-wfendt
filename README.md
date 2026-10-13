@@ -18,16 +18,21 @@ I enjoy bridging the gap between customers, technology, and business strategy wh
 ---
 
 ## 🛠 Technology & Platforms
-https://img.shields.io/badge/Product%20Management-0052CC?style=for-the-badge
-https://img.shields.io/badge/Android%20Enterprise-3DDC84?style=for-the-badge&logo=android&logoColor=white
-https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft
-https://img.shields.io/badge/Entra%20ID-0078D4?style=for-the-badge&logo=microsoft
-https://img.shields.io/badge/REST%20API-0A66C2?style=for-the-badge
-https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
-https://img.shields.io/badge/Security%20%26%20Compliance-FF6B00?style=for-the-badge
-https://img.shields.io/badge/MCP-6B46C1?style=for-the-badge
-https://img.shields.io/badge/Enterprise%20AI-0B5FFF?style=for-the-badge
+![Product Management](https://img.shields.io/badge/Product%20Management-0052CC?style=for-the-prise](https://img.shields.io/badge/Android%20Enterprise-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+![Microsoft Intune](badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=microsoft)
+
+![Entra ID](https://img.shields0078D4?style=for-the-badge&logo=microsoft)
+
+![REST API](https://img.shields.io/badge/REST?style=for-the-badge)
+
+![PowerShell](https://img.shields.iohell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/Gyle=for-the-badge&logo=github)
+
+![Security & Compliance](https://img.shields.io/badge/Security%20%26%20Compliance-FF6B00the-badge)
+
+![MCP](https://img.shields.io/badge/MCP-6B
 
 ---
 
